@@ -1,13 +1,13 @@
-<div class="row"  style="background-color:#FFF" >
-    <div class="col-lg-12" >
-        <ul class="nav nav-tabs">
-            <li class="active">
-                <a href="index.php">HOME</a></li>
-            <li><a href="#">PRODUTOS</a></li>
-            <li><a href="#">CARRINHO DE COMPRAS</a></li>
-            <li><a href="login.php">LOGIN</a></li>
-            <li><a href="perfil.php">PERFIL</a></li>
-            <li><a href="contato.php">CONTATO</a></li>
+
+<div class="row">
+    <div class="col-md-12">
+        <ul class="nav nav-pills nav-stacked">
+            <li class="active"><a href="index.php"><i class="fa fa-home fa-fw"></i>INÍCIO</a></li>
+            <li><a href="login.php"><i class="fa fa-list-alt fa-fw"></i>LOGIN</a></li>
+            <li><a href="perfil.php"><i class="fa fa-file-o fa-fw"></i>PERFIL</a></li>
+            <li><a href="produtos.php"><i class="fa fa-bar-chart-o fa-fw"></i>PRODUTOS</a></li>
+            <li><a href="carrinho.php"><i class="fa fa-bar-chart-o fa-fw"></i>CARRINHO</a></li>
+
         </ul>
     </div>
 </div>

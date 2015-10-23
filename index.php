@@ -22,11 +22,11 @@
 
             <div class="row">
                 <div class="col-lg-6">
-                    <img src="img/direito.jpg" height="500" width="600"/>
+                    <img src="img/martelo-balanca-livros.png" height="400" width="500"/>
 
                 </div>
                 <div class="col-lg-6">
-                    <div class="alert alert-success" role="alert" style="text-align:justify " > <h4 style="color:orangered" <blockquote >
+                    <div class="alert alert-success" role="alert" style="text-align:justify " > <h4 style="color:" <blockquote >
 
                                 <br>FUNDAMENTOS DO DIREITO <br style="text-align:justify ">
 
