@@ -1,10 +1,13 @@
-<div class="col-lg-4" >
-    <ul class="nav">
-        <li><a href="index.php" title="Home"><h4 style="color:yellowgreen">HOME</h4></a></li>
-        <li><a href="#" title="Home"><h4 style="color:yellowgreen">PRODUTOS</h4></a></li>
-        <li><a href="" title="Home"><h4 style="color:yellowgreen">CARRINHO DE COMPRAS</h4></a></li>
-        <li><a href="#" title="Home"><h4 style="color:yellowgreen">LOGIN</h4></a></li>
-        <li><a href="#" title="Home"><h4 style="color:yellowgreen">PERFIL</h4></a></li>
-    </ul>
-
+<div class="row"  style="background-color:#FFF" >
+    <div class="col-lg-12" >
+        <ul class="nav nav-tabs">
+            <li class="active">
+                <a href="index.php">HOME</a></li>
+            <li><a href="#">PRODUTOS</a></li>
+            <li><a href="#">CARRINHO DE COMPRAS</a></li>
+            <li><a href="login.php">LOGIN</a></li>
+            <li><a href="perfil.php">PERFIL</a></li>
+            <li><a href="contato.php">CONTATO</a></li>
+        </ul>
+    </div>
 </div>

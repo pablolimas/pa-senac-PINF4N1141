@@ -1,12 +1,10 @@
 
 <html>
-    <head>
-        <title>MATERIAIS DE INFORMÁTICA</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
-        <link href="css/fundo.css" rel="stylesheet" type="text/css"/>
-    </head>
+
+    <?php
+    require 'inc/head.php';
+    ?>
+
 
     <body>
         <div class="container">
@@ -17,18 +15,9 @@
             </div>
 
 
-            <div class="row"  style="background-color:#FFF" >
-                <div class="col-lg-12" >
-                    <ul class="nav nav-tabs">
-                        <li class="active">
-                            <a href="#">HOME</a></li>
-                        <li><a href="#">PRODUTOS</a></li>
-                        <li><a href="#">CARRINHO DE COMPRAS</a></li>
-                        <li><a href="#">LOGIN</a></li>
-                        <li><a href="#">PERFIL</a></li>
-                    </ul>
-                </div>
-            </div>
+            <?php
+            require 'inc/menu.php';
+            ?>
 
 
             <div class="row">
