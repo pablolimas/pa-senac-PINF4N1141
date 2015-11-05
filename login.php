@@ -4,36 +4,37 @@
     require 'inc/head.php';
     ?>
 
-    <body>
+    <body background="img/f2.jpg">
         <div class="container">
-
 
             <?php
             require 'inc/menu.php';
             ?>
 
 
-
             <div class="container">
+
                 <div class="row toppad">
                     <div class="col-md-4 col-md-offset-4">
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <span class="glyphicon glyphicon-lock"></span> LOGIN</div>
+
                             <div class="panel-body">
-                                <form class="form-horizontal" role="form">
+                                <form class="form-horizontal" action="faz_login.php" method="post" >
+
                                     <div class="form-group">
-                                        <label for="inputEmail3" class="col-sm-3 control-label">
+                                        <label for="email" class="col-sm-3 control-label">
                                             EMAIL</label>
                                         <div class="col-sm-9">
-                                            <input type="email" class="form-control" id="inputEmail3" placeholder="EMAIL" required>
+                                            <input type="email" name="email" class="form-control" id="email" placeholder="EMAIL" required>
                                         </div>
                                     </div>
                                     <div class="form-group">
                                         <label for="inputPassword3" class="col-sm-3 control-label">
                                             SENHA</label>
                                         <div class="col-sm-9">
-                                            <input type="password" class="form-control" id="inputPassword3" placeholder="SENHA" required>
+                                            <input type="password" name="senha" class="form-control" id="senha" placeholder="SENHA" required>
                                         </div>
                                     </div>
                                     <div class="form-group">
@@ -60,15 +61,8 @@
                         </div>
                     </div>
                 </div>
+
             </div>
-
-
-
-
-
-
-
-
         </div>
     </body>
 </html>

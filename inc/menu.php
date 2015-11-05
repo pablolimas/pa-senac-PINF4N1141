@@ -9,7 +9,7 @@
                 <a href="login.php"><i class="fa fa-list-alt fa-fw"></i>LOGIN</a>
             </div>
             <div class="btn-group" role="group">
-                <a href="perfil.php"><i class="fa fa-file-o fa-fw"></i>PERFIL</a>
+                <a href="pessoas.php"><i class="fa fa-file-o fa-fw"></i>PESSOAS</a>
             </div>
 
             <div class="btn-group" role="group">

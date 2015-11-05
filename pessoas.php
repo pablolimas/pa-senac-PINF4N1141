@@ -4,7 +4,7 @@
 require 'inc/head.php';
 ?>
 
-    <body>
+    <body background="img/f2.jpg">
         <div class="container">
 
             <?php
@@ -15,7 +15,7 @@ require 'inc/head.php';
                     <fieldset>
 
 
-                        <legend style="text-align:center ">CADASTRE-SE</legend>
+                        <legend style="text-align:center ">cadastro</legend>
 
                         <div class="form-group">
                             <label class="col-md-4 control-label" for="textinput">NOME</label>

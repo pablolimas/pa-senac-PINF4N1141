@@ -7,6 +7,7 @@
     <link href="css/imagem.css" rel="stylesheet" type="text/css"/>
     <link href="img/advo1.png"rel="stylesheet" type="img"/>
     <link href="css/fundo.css" rel="stylesheet" type="text/css"/>
+
 <div class="row">
     <center> <img src="img/advo4.png"  ></center>
 </div>

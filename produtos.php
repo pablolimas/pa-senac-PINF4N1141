@@ -2,7 +2,7 @@
     <?php
     require 'inc/head.php';
     ?>
-    <body>
+    <body background="img/f2.jpg">
         <div class="container" >
 
             <?php
