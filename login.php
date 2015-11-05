@@ -64,5 +64,8 @@
 
             </div>
         </div>
+        <?php
+        require 'inc/foot.php';
+        ?>
     </body>
 </html>
