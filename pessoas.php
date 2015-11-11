@@ -12,7 +12,7 @@ require 'inc/head.php';
             ?>
             <div class="container" id="perfil">
 
-                <form class="form-horizontal" method="post" action="cadastrar_pessoas.php">
+                <form class="form-horizontal" method="post" action="cadastro_pessoas.php">
                     <fieldset></fieldset>
                     <legend style="text-align:center ">Cadastro de Pessoas</legend>
 
