@@ -29,7 +29,7 @@
                                 </div>
                             </div>
                             <div>
-                                <a href="#" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
+                                <a href="carrinho.php" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
                             </div>
                             <div class="clearfix"></div>
                         </div>
@@ -44,7 +44,7 @@
                                 </div>
                             </div>
                             <div>
-                                <a href="#" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
+                                <a href="carrinho.php" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
                             </div>
                             <div class="clearfix"></div>
                         </div>
@@ -59,7 +59,7 @@
                                 </div>
                             </div>
                             <div>
-                                <a href="/#" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
+                                <a href="carrinho.php" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
 
                             </div>
                             <div class="clearfix"></div>
@@ -75,7 +75,7 @@
                                 </div>
                             </div>
                             <div>
-                                <a href="#" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
+                                <a href="carrinho.php" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
 
                             </div>
                             <div class="clearfix"></div>
@@ -93,7 +93,7 @@
                                 </div>
                             </div>
                             <div>
-                                <a href="#" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
+                                <a href="carrinho.php" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
 
                             </div>
                             <div class="clearfix"></div>
@@ -109,7 +109,7 @@
                                 </div>
                             </div>
                             <div>
-                                <a href="#" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
+                                <a href="carrinho.php" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
 
                             </div>
                             <div class="clearfix"></div>
@@ -125,7 +125,7 @@
                                 </div>
                             </div>
                             <div>
-                                <a href="#" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
+                                <a href="carrinho.php" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
                             </div>
                             <div class="clearfix"></div>
                         </div>
@@ -140,7 +140,7 @@
                                 </div>
                             </div>
                             <div>
-                                <a href="" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
+                                <a href="carrinho.php" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
 
                             </div>
                             <div class="clearfix"></div>
@@ -156,7 +156,7 @@
                                 </div>
                             </div>
                             <div>
-                                <a href="" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
+                                <a href="carrinho.php" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
 
                             </div>
                             <div class="clearfix"></div>
@@ -172,7 +172,7 @@
                                 </div>
                             </div>
                             <div>
-                                <a href="" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
+                                <a href="carrinho.php" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
 
                             </div>
                             <div class="clearfix"></div>
@@ -198,7 +198,7 @@
                                 </div>
                             </div>
                             <div>
-                                <a href="" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
+                                <a href="carrinho.php" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
 
                             </div>
                             <div class="clearfix"></div>
@@ -214,7 +214,7 @@
                                 </div>
                             </div>
                             <div>
-                                <a href="" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
+                                <a href="carrinho.php" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
 
                             </div>
                             <div class="clearfix"></div>
@@ -230,7 +230,7 @@
                                 </div>
                             </div>
                             <div>
-                                <a href="" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
+                                <a href="carrinho.php" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
 
                             </div>
                             <div class="clearfix"></div>
@@ -246,7 +246,7 @@
                                 </div>
                             </div>
                             <div>
-                                <a href="" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
+                                <a href="carrinho.php" class="btn btn-success center-block">Adicionar ao Carrinho</a></p>
 
                             </div>
                             <div class="clearfix"></div>
