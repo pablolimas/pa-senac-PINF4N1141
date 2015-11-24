@@ -1,6 +1,6 @@
 CREATE SCHEMA 'livraria';
 
-CREATE TABLE 'faq'.'perfil'
+CREATE TABLE 'livraria'.'perfil'
 'id' INT NOT NULL AUTO_INCREMENT,
 'nome' VARCHAR(45) NOT NULL,
 'escritorio' VARCHAR(45) NOT NULL,
