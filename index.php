@@ -12,7 +12,7 @@
             <div class="row">
 
                 <div class="col-lg-6">
-                    <img src="img/adv.gif" height="400" width="500"/>
+                    <img src="img/themis.png" height="400" width="500"/>
 
                 </div>
 
