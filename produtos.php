@@ -24,7 +24,7 @@
                             <img src="img/iss.jpg">
                             <div class="row">
                                 <div class="col-lg-12 text-center">
-                                    <h5> </h5>
+                                    <h5>LIVRO</h5>
                                     <h4><b>R$ 160,00</b></h4>
                                 </div>
                             </div>
