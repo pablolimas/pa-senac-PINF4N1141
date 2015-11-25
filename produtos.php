@@ -21,11 +21,11 @@
                     <div class="row hidden-sm">
 
                         <div class="col-sm-4 col-md-3">
-                            <img src="/img/2.jpg">
+                            <img src="img/iss.jpg">
                             <div class="row">
                                 <div class="col-lg-12 text-center">
-                                    <h5>DIREITO CONSTITUCIONAL APLICADO</h5>
-                                    <h4><b>R$& 160,00</b></h4>
+                                    <h5> </h5>
+                                    <h4><b>R$ 160,00</b></h4>
                                 </div>
                             </div>
                             <div>
@@ -36,11 +36,11 @@
 
 
                         <div class="col-sm-4 col-md-3">
-                            <img src="/img/2.jpg">
+                            <img src="img/iss.jpg">
                             <div class="row">
                                 <div class="col-lg-12 text-center">
                                     <h5>LIVRO</h5>
-                                    <h4><b>R$</b></h4>
+                                    <h4><b>R$ 160,00</b></h4>
                                 </div>
                             </div>
                             <div>
@@ -51,11 +51,11 @@
 
 
                         <div class="col-sm-4 col-md-3">
-                            <img src="/img/2.jpg">
+                            <img src="img/iss.jpg">
                             <div class="row">
                                 <div class="col-lg-12 text-center">
                                     <h5>LIVRO</h5>
-                                    <h4><b>R$</b></h4>
+                                    <h4><b>R$ 160,00</b></h4>
                                 </div>
                             </div>
                             <div>
@@ -67,11 +67,11 @@
 
 
                         <div class="col-sm-4 col-md-3">
-                            <img src="/img/2.jpg">
+                            <img src="img/iss.jpg">
                             <div class="row">
                                 <div class="col-lg-12 text-center">
                                     <h5>LIVRO</h5>
-                                    <h4><b>R$</b></h4>
+                                    <h4><b>R$ 160,00</b></h4>
                                 </div>
                             </div>
                             <div>
@@ -85,11 +85,11 @@
                     <div class="row visible-sm">
 
                         <div class="col-sm-4 col-md-3">
-                            <img src="/img/2.jpg">
+                            <img src="img/iss.jpg">
                             <div class="row">
                                 <div class="col-lg-12 text-center">
                                     <h5>LIVRO</h5>
-                                    <h4><b>R$</b></h4>
+                                    <h4><b>R$ 160,00</b></h4>
                                 </div>
                             </div>
                             <div>
@@ -101,11 +101,11 @@
 
 
                         <div class="col-sm-4 col-md-3">
-                            <img src="/img/2.jpg">
+                            <img src="img/iss.jpg">
                             <div class="row">
                                 <div class="col-lg-12 text-center">
                                     <h5>LIVRO</h5>
-                                    <h4><b>R$</b></h4>
+                                    <h4><b>R$ 160,00</b></h4>
                                 </div>
                             </div>
                             <div>
@@ -117,11 +117,11 @@
 
 
                         <div class="col-sm-4 col-md-3">
-                            <img src="/img/2.jpg">
+                            <img src="img/iss.jpg">
                             <div class="row">
                                 <div class="col-lg-12 text-center">
                                     <h5></h5>
-                                    <h4><b>R$</b></h4>
+                                    <h4><b>R$ 160,00</b></h4>
                                 </div>
                             </div>
                             <div>
@@ -136,7 +136,7 @@
                             <div class="row">
                                 <div class="col-lg-12 text-center">
                                     <h5>LIVRO</h5>
-                                    <h4><b>R$</b></h4>
+                                    <h4><b>R$ 160,00</b></h4>
                                 </div>
                             </div>
                             <div>
@@ -148,11 +148,11 @@
 
 
                         <div class="col-sm-4 col-md-3">
-                            <img src="/img/2.jpg">
+                            <img src="img/iss.jpg">
                             <div class="row">
                                 <div class="col-lg-12 text-center">
                                     <h5></h5>
-                                    <h4><b>R$/b></h4>
+                                    <h4><b>R$ 160,00/b></h4>
                                 </div>
                             </div>
                             <div>
@@ -164,11 +164,11 @@
 
 
                         <div class="col-sm-4 col-md-3">
-                            <img src="/img/2.jpg">
+                            <img src="img/iss.jpg">
                             <div class="row">
                                 <div class="col-lg-12 text-center">
                                     <h5>LIVRO</h5>
-                                    <h4><b>R$</b></h4>
+                                    <h4><b>R$ 160,00</b></h4>
                                 </div>
                             </div>
                             <div>
@@ -189,12 +189,12 @@
                     <div class="row hidden-xs">
 
                         <div class="col-sm-4 col-md-3">
-                            <img alt="LIVRO" title="LIVRO" src="img/" border=0 class=EstImgFC onError=MostraImgOnError(this,0)>
+                            <img alt="LIVRO" title="LIVRO" src="img/iss.jpg" border=0 class=EstImgFC onError=MostraImgOnError(this,0)>
 
                             <div class="row">
                                 <div class="col-lg-12 text-center">
                                     <h5>LIVRO</h5>
-                                    <h4><b>R$</b></h4>
+                                    <h4><b>R$ 160,00</b></h4>
                                 </div>
                             </div>
                             <div>
@@ -206,11 +206,11 @@
 
 
                         <div class="col-sm-4 col-md-3">
-                            <img src="/img/2.jpg">
+                            <img src="img/iss.jpg">
                             <div class="row">
                                 <div class="col-lg-12 text-center">
                                     <h5>LIVRO</h5>
-                                    <h4><b>R$</b></h4>
+                                    <h4><b>R$ 160,00</b></h4>
                                 </div>
                             </div>
                             <div>
@@ -222,11 +222,11 @@
 
 
                         <div class="col-sm-4 col-md-3">
-                            <img src="/img/2.jpg">
+                            <img src="img/iss.jpg">
                             <div class="row">
                                 <div class="col-lg-12 text-center">
                                     <h5>LIVRO</h5>
-                                    <h4><b>R$</b></h4>
+                                    <h4><b>R$ 160,00</b></h4>
                                 </div>
                             </div>
                             <div>
@@ -238,11 +238,11 @@
 
 
                         <div class="col-sm-4 col-md-3">
-                            <img src="/img/2.jpg">
+                            <img src="img/iss.jpg">
                             <div class="row">
                                 <div class="col-lg-12 text-center">
                                     <h5>LIVRO</h5>
-                                    <h4><b>R$</b></h4>
+                                    <h4><b>R$ 160,00</b></h4>
                                 </div>
                             </div>
                             <div>
